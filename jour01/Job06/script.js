@@ -7,13 +7,13 @@
             if (debut %3==0)
 
             {
-               console.log("Fizz")
+               console.log("Fizz");
             }
            
             if (debut %5==0)
 
             {
-               console.log("Buzz")
+               console.log("Buzz");
             }
 
             if (debut %5==0 && debut %3==0)

@@ -6,14 +6,12 @@
 </head>
 
 <body>
-	<style>
-		.mystyle{
-			display: none;
-		}
-	</style>
 	
-<button id="button" onclick= "showhide()" >Citation</button>
-<article id="citation">L'important n'est pas la chute, mais l'atterrissage..</article>
+	
+
+<button id="button" onclick= "showhide();" >Citation</button>
+<article style="visibility: hidden;" id="citation">L'important n'est pas la chute, mais l'atterrissage..</article>
+
 
 	
 </body>

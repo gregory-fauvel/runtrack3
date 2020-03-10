@@ -1,7 +1,9 @@
 function showhide() {
-var element =document.getElementById("citation");
-element.classList.toggle("mystyle");
- 
+if(document.getElementById("citation").style.visibility=="visible")
+document.getElementById("citation").style.visibility="hidden";
+else
+document.getElementById("citation").style.visibility="visible";
+
 }
 
 	

@@ -11,7 +11,7 @@ monétaire. Le # de twitter est une bonne I D. Il faudra faire le point avec la
 classe pour cacher cet élément. ”.</p>
 
 <button id="hide">Cache</button><br>
-<button id="show">Montre</button><br>
+<button id="button">Montre</button><br>
 
 </body>
 </html>

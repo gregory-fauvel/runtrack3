@@ -8,7 +8,8 @@ $(document).ready(function(){
 
   });
    
-  $("#show").click(function(){
+
+  $("#button").click(function(){
     	$("p").show();
      	$("#hide").show();
      

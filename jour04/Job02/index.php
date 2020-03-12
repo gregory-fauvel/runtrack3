@@ -6,14 +6,9 @@
 <script type="text/javascript" src="script.js"></script>
 </head>
 
-
 <body>
 
-
-<button id="button" onclick="jsonValueskey()">Envoie</button>
-<p id="demo"></p>
-
-
+<button id="button" onclick="jsonValueskey(json2,'city')" >Envoie</button>
 
 </body>
 </html>
